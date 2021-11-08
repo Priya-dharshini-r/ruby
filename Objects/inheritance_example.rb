@@ -37,5 +37,5 @@ end
 c = ComputerDepartment.new("Computer science & Engineering", 3, 2, 1)
 c.add_teacher("Ross")
 c.add_teacher("Monica")
-# puts c.department_info
+puts c.department_info
 puts c.rooms_info
